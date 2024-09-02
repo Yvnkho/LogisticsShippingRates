@@ -1,5 +1,5 @@
 # LogisticsShippingRates
-# This is a coursera practive project repository. 
+# This is a coursera practice project repository. 
 
 
 Please consider the below factors while contributing
